@@ -31,10 +31,10 @@ iduals or organizations.
 
     1. Terms of redistributing.
 
-    To redistribute a work means to upload/publish a work withoutt modifying it.
+    To redistribute a work means to upload/publish a work without modifying it.
 The redistribution should be marked as "redistributed" or "copied" and should
-indicate the official version. The license of the redistribution must be this
-license.
+indicate the official version's provenance. The license of the redistribution
+must be this license.
     Compiling the program with other programs is also redistributiing.
 
     2. Terms of using.
@@ -54,14 +54,41 @@ fashion requiring copyright permission, other than the making of an exact copy.
 The resulting work is called a "modified version" of the earlier work or a work 
 "based on" the earlier work.
 
-    Modification of the program must have the same license and should indicate
-the unmodified version.
+    Modified version of the program must have the same license, indicate
+the unmodified version's provenance and be marked as modified.
 
     4. Terms of importing.
 
     To import a work means to use a work in other programs, but not modifying.
-Importing the program, for example linking, is always allowed
+Importing the program, for example linking and using the function "system", 
+is always allowed. The new program can be close-source, but should indicate the
+imported program's provenance.
 
+    5. Terms of programming languages.
 
-< Unfinished >
+    If the program is a programming language, then programs written in this
+can be close-source anyway.
+
+    6. Books and others.
+
+    To quote code from the program in anywhere except other programs, the only
+thing the writers have to do is to indicate the program's provenance.
+
+    7. The program itself.
+
+    The program must be open-source.
+    The program must keep the same license forever.
+
+                           END OF TERMS AND CONDITIONS
+
+    To use this license, you have to add it to your project files and add an
+indication of the license this project uses. This is an example:
+
+    This project can be redistributed, modified and used in other programs
+under the Non Commercial-use Program Manipulation License.
+
+                                     CREDITS
+
+    Thanks for devoter-fyc and yizigezi for some help in this license.
+
 
